@@ -7,11 +7,12 @@
 }
 
 .formWrapper{
-  background: #282a36;
+  background: #484848;
   padding: 20px;
   border-radius: 10px;
   width: 400px;
   max-width: 90%;
+  box-shadow: rgba(0, 0, 0, 0.85) 0px 10px 25px;
 }
 
 footer{
@@ -94,7 +95,7 @@ footer a{
 }
 
 .aside{
-  background: #1c1e29;
+  background: #282828;
   padding: 16px;
   color: #fff;
   display: flex;
@@ -139,8 +140,9 @@ footer a{
 }
 
 .CodeMirror{
-  min-height: calc(100vh - 20px);
+  min-height: 100vh;
   font-size: 20px;
   line-height: 1.6;
-  padding-top: 20px;
+  /* padding-top: 20px; */
 }
+

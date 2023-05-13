@@ -52,7 +52,7 @@ const Home = () => {
       </div>
       
       <footer>
-        <h4>Build with 💛 by <a href="https://linkedin.com/in/amankhan9026">Aman</a></h4>
+        <h4>©&nbsp;&nbsp;<a href="https://linkedin.com/in/amankhan9026">Aman</a></h4>
       </footer>
     </div>
   );
